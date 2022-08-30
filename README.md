@@ -1,3 +1,2 @@
 My second readme
-we have made changes
- i don tire
+my readme is up to date
